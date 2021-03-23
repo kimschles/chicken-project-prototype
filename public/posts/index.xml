@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on The Chicken Project</title>
+    <link>https://chickenproject.org/posts/</link>
+    <description>Recent content in Posts on The Chicken Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 22 Mar 2021 18:47:13 -0600</lastBuildDate><atom:link href="https://chickenproject.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meet Liza</title>
+      <link>https://chickenproject.org/posts/meet-liza/</link>
+      <pubDate>Mon, 22 Mar 2021 18:47:13 -0600</pubDate>
+      
+      <guid>https://chickenproject.org/posts/meet-liza/</guid>
+      <description>This is Liza.</description>
+    </item>
+    
+    <item>
+      <title>Introducing The Chicken Project</title>
+      <link>https://chickenproject.org/posts/welcome/</link>
+      <pubDate>Mon, 22 Mar 2021 18:23:53 -0600</pubDate>
+      
+      <guid>https://chickenproject.org/posts/welcome/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu bibendum at varius vel pharetra vel turpis nunc. Orci phasellus egestas tellus rutrum tellus pellentesque eu tincidunt. Pellentesque habitant morbi tristique senectus et netus. Interdum velit laoreet id donec. Aliquam id diam maecenas ultricies mi eget mauris pharetra. Leo in vitae turpis massa sed elementum tempus. Elit eget gravida cum sociis natoque.</description>
+    </item>
+    
+  </channel>
+</rss>
