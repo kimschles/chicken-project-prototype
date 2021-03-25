@@ -2,6 +2,7 @@ baseURL = "https://chickenproject.org/"
 languageCode = "en-us"
 title = "The Chicken Project"
 theme = "ananke"
+SectionPagesMenu = "main"
 
 [params]
   favicon = ""
